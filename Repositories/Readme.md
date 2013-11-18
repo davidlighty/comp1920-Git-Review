@@ -21,6 +21,12 @@ Goals
 
 Repository
 ----------
+Network Graph : https://github.com/zing2bing13/comp1920/network
+Fork
+Track Master
+Pull Request
+Commits
+	Commit Messages
 
 
 
@@ -31,3 +37,7 @@ File Status
 Resources
 ---------
 For more information, try these resources:
+* Github Bootcamp Help files
+	* https://help.github.com/articles/create-a-repo
+	* https://help.github.com/articles/fork-a-repo
+

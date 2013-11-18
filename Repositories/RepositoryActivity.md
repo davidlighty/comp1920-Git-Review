@@ -25,6 +25,17 @@ The starting section of a repository on Github.  Always have a readme file, usua
 Network Activity
 ----------------
 
+Shows the activity of this repository across forks and contributors.
+
+* Graph
+	Shows the branch activity of this project, from the master main branch through all the forks of the main branch.  "Pull Requests" that are accepted are shown as arrows coming back into the master branch.
+
+	Arrows into a fork show a
+
+* Members
+
+![alt text][RepoNetworkActivityGraph]
+
 
 Graphs
 ------
@@ -33,3 +44,5 @@ Graphs
 
 
 [RepoOverview]: images/RepositoryOverview.png "Repository Overview Image"
+[RepoNetworkActivityGraph]: images/RepositoryNetworkActivityGraph.png "Repository Activity Graph"
+
