@@ -1,3 +1,12 @@
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Repositories ](#repositories)
+	- [Overview](#overview)
+	- [Goals](#goals)
+	- [Repository](#repository)
+	- [File Status](#file-status)
+	- [Resources](#resources)
+
 Repositories 
 ============
 

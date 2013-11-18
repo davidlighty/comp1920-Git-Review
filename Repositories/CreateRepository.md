@@ -1,3 +1,7 @@
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Creating a Repository](#creating-a-repository)
+
 Creating a Repository
 =====================
 

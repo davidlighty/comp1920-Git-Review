@@ -1,3 +1,10 @@
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Repository Activity](#repository-activity)
+	- [GitHub Start Page](#github-start-page)
+	- [Network Activity](#network-activity)
+	- [Graphs](#graphs)
+
 Repository Activity
 ===================
 
@@ -30,8 +37,9 @@ Shows the activity of this repository across forks and contributors.
 * Graph
 	Shows the branch activity of this project, from the master main branch through all the forks of the main branch.  "Pull Requests" that are accepted are shown as arrows coming back into the master branch.
 
-	Arrows into a fork show a
-
+	
+	* Common issue with branches show here are most are all called "master", when in fact there is only one master branch.  And all others are siblings or children branches.  But you could "seperate" the branch and make it your own, thereby becoming the "master" of your new branch (also called a fork).
+	
 * Members
 
 ![alt text][RepoNetworkActivityGraph]

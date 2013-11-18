@@ -1,3 +1,10 @@
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Comp1920 Assignment 2 :: GitHub Presentation](#comp1920-assignment-2--github-presentation)
+	- [Overview](#overview)
+	- [Goals](#goals)
+	- [Contents](#contents)
+
 Comp1920 Assignment 2 :: GitHub Presentation
 ============================================
 
