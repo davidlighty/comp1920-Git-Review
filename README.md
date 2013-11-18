@@ -1,12 +1,11 @@
-comp1920
-========
-
-Assignment Repo for Group Talk
+Comp1920 Assignment 2 :: GitHub Presentation
+============================================
 
 Overview
 --------
 
-Group talk with be about Github, why it should be used, how to use it (breifly), and demonstrate working with it.
+Our group presentation will be about GitHub and how to better save and collaborate on your code projects.  Each presenter will highlight a different portion of this process.
+
 
 Goals
 -----
