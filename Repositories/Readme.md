@@ -22,6 +22,7 @@ Comp 1920
 Overview
 --------
 Section is about repositories, what they are and how one can use them effectively.
+This is available on my GitHub: https://github.com/davidlighty/comp1920-Git-Review
 
 Goals
 -----
