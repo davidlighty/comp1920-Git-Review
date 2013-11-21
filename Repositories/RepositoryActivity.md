@@ -1,9 +1,13 @@
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
-- [Repository Activity](#repository-activity)
-	- [GitHub Start Page](#github-start-page)
-	- [Network Activity](#network-activity)
-	- [Graphs](#graphs)
+- [Repository Activity
+](#repository-activity)
+	- [GitHub Start Page
+](#github-start-page)
+	- [Network Activity
+](#network-activity)
+	- [Graphs
+](#graphs)
 
 Repository Activity
 ===================
@@ -47,7 +51,12 @@ Shows the activity of this repository across forks and contributors.
 
 Graphs
 ------
+These show various activities with the repository, usualy by day or hour.
 
+* Contributors
+* Commit Activity
+* Code Frequency
+* Punchcard
 
 
 
