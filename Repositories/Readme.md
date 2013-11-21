@@ -1,11 +1,17 @@
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
-- [Repositories ](#repositories)
-	- [Overview](#overview)
-	- [Goals](#goals)
-	- [Repository](#repository)
-	- [File Status](#file-status)
-	- [Resources](#resources)
+- [Repositories 
+](#repositories)
+	- [Overview
+](#overview)
+	- [Goals
+](#goals)
+	- [Repository
+](#repository)
+	- [File Status
+](#file-status)
+	- [Resources
+](#resources)
 
 Repositories 
 ============
@@ -38,14 +44,13 @@ Commits
 	Commit Messages
 
 
-
-File Status
------------
-
-
 Resources
 ---------
 For more information, try these resources:
+* Git Doc
+	* http://git-scm.com/docs
+* GitRef
+	* http://gitref.org/
 * Github Bootcamp Help files
 	* https://help.github.com/articles/create-a-repo
 	* https://help.github.com/articles/fork-a-repo
