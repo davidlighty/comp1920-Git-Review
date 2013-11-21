@@ -39,7 +39,7 @@ Resources
 ---------
 For more information, try these resources:
 * Git Doc
-	* http://git-scm.com/docs
+	* http://git-scm.com/doc
 * GitRef
 	* http://gitref.org/
 * Github Bootcamp Help files
