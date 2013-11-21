@@ -1,17 +1,3 @@
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
-
-- [Repositories 
-](#repositories)
-	- [Overview
-](#overview)
-	- [Goals
-](#goals)
-	- [Repository
-](#repository)
-	- [File Status
-](#file-status)
-	- [Resources
-](#resources)
 
 Repositories 
 ============
@@ -34,6 +20,10 @@ Goals
 * Be able to understand how a file lives in a repository
 * Be able to see versioning of a file in a repsoitory
 
+- [Repositories](Repositories.md)
+- [Commiting](Commiting.md)
+- [File Status](FileStatus.md)
+- [Repository Activity](RepositoryActivity.md)
 
 Resources
 ---------

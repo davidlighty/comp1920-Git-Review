@@ -23,6 +23,7 @@ There are a few ways to create a repository, but a repository is always a direct
 	* You can either click the ```+ create``` or drag and drop
 
 	![alt text][GitHubWindowsRepoCreate]
+	
 	![alt text][GitHubWindowsRepoCreateDragDrop]
 
 * Git Command Line Create
