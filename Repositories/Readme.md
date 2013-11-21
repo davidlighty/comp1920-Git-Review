@@ -35,16 +35,6 @@ Goals
 * Be able to see versioning of a file in a repsoitory
 
 
-Repository
-----------
-Network Graph : https://github.com/zing2bing13/comp1920/network
-Fork
-Track Master
-Pull Request
-Commits
-	Commit Messages
-
-
 Resources
 ---------
 For more information, try these resources:
