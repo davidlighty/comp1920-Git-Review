@@ -41,6 +41,7 @@ Working with a Repository
 
 * Branching is it's own beast!
 	* The more branches, the more issues can arise from multiple changes and attempting to merge them together.
+	A great blog post to review: http://nvie.com/posts/a-successful-git-branching-model/
 	* Resources
 		* http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging
 		* https://help.github.com/articles/branching-out
