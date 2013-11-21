@@ -16,10 +16,12 @@ There are a few ways to create a repository, but a repository is always a direct
 * GitHub Create
 	* Click the upper left nav bar icon of a book with a ```+```
 	* Goto your profiles Repositories tab and click the big green _New_ button.
+
 	![alt text][GitHubRepoCreate]
 
 * GitHub Window Create
 	* You can either click the ```+ create``` or drag and drop
+
 	![alt text][GitHubWindowsRepoCreate]
 	![alt text][GitHubWindowsRepoCreateDragDrop]
 
@@ -64,5 +66,5 @@ Resources
 
 
 [GitHubRepoCreate]: images/GitHubRepoCreate.png "Web Create @GitHub"
-[GitHubWindowsRepoCreate]: images/GitHubWindowsRepoCreate.png "GUI Create @GitHubWindows"
-[GitHubWindowsRepoCreateDragDrop]: images/GitHubWindowsRepoCreateDragDrop.png "GUI Drag Drop Create @GitHubWindows"
+[GitHubWindowsRepoCreate]: images/GitHubWindowsCreate.png "GUI Create @GitHubWindows"
+[GitHubWindowsRepoCreateDragDrop]: images/GitHubRepoCreateDragDrop.png "GUI Drag Drop Create @GitHubWindows"
