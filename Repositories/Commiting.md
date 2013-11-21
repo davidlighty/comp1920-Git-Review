@@ -1,12 +1,3 @@
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
-
-- [Commiting
-](#commiting)
-	- [What is a Commit?
-](#what-is-a-commit)
-	- [Commit Messages
-](#commit-messages)
-
 Commiting
 =========
 
@@ -40,7 +31,9 @@ git reset HEAD
 Which removes the last commit
 
 
-
+Resources
+---------
+* http://cheat.errtheblog.com/s/git
 
 [GitHubCommits]: images/GitHubCommits.png "Commits @GitHub"
 [GitHubDiff]: images/GitHubDiff.png "Diff @GitHub"

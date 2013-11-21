@@ -23,7 +23,7 @@ There are a few ways to create a repository, but a repository is always a direct
 	* You can either click the ```+ create``` or drag and drop
 
 	![alt text][GitHubWindowsRepoCreate]
-	
+
 	![alt text][GitHubWindowsRepoCreateDragDrop]
 
 * Git Command Line Create
@@ -31,15 +31,13 @@ There are a few ways to create a repository, but a repository is always a direct
 	* ``` git init ```
 
 
-Removing a Repository
----------------------
-
-
 Working with a Repository
 -------------------------
 
 * Clone/Fork/Star/Branch....alot of terms.
 
+* Sync
+ * With GitHub when you locally commit changes, it doesn't automatically push this commit(s) to the server.  You can with GitHub for Windows push to the server with ```sync``` or you can run ```git push```
 
 * Branching is it's own beast!
 	* The more branches, the more issues can arise from multiple changes and attempting to merge them together.
@@ -54,7 +52,8 @@ Repository health
 
 
 
-
+Removing a Repository
+---------------------
 
 
 Resources

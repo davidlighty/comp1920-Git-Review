@@ -25,6 +25,10 @@ Goals
 - [File Status](FileStatus.md)
 - [Repository Activity](RepositoryActivity.md)
 
+__What you should do next__
+---------------------------
+__READ/SAVE::> http://cheat.errtheblog.com/s/git__
+
 Resources
 ---------
 For more information, try these resources:
