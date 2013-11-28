@@ -48,19 +48,10 @@ Working with a Repository
 		* https://help.github.com/articles/merging-branches
 
 
-Repository health
------------------
-
-
-
 Removing a Repository
 ---------------------
 
-
-Resources
----------
-
-
+To remove a repository on Github goto the settings section, to the Danger Zone.  Here you can either upgrade your account to make the repo private, transfer ownership to another account, or delete the repository.
 
 
 
